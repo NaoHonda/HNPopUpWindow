@@ -1,6 +1,9 @@
 # HNPopUpWindow
 HNPopUpWindow is a UIWindow class use pop up alertview.
 
+##Screenshot
+![Screenshot](https://github.com/NaoHonda/HNPopUpWindow/blob/master/ScreenShot.png "Example of HNPopUpWindow")
+
 ##License (MIT)
 
 Copyright (c) 2015 Nao Honda
